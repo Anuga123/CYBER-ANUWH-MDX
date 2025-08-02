@@ -1,19 +1,19 @@
 {
-  "name": "HASHAN-MD",
-  "description": "Javascript WhatsApp bot made by HASHIYA",
-  "logo": "https://telegra.ph/file/04f33ed3a84d24104a9ef.jpg",
+  "name": "CYBER-ANUWH-MDX",
+  "description": "Javascript WhatsApp bot made by CYBER ANUWH (Mr.Anuga Senithu)",
+  "logo": "https://postimg.cc/nX6ZH38b",
   "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-      "description": "qVkUESxA#BdiLiBXc81qPclI3vZa7_jQYUOlu3FQfg9YR-I8ub7A",
+      "description": "PUT YOUR SESSION ID HERE",
       "required": true
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
-      "required": false
+      "description": "https://postimg.cc/nX6ZH38b",
+      "required": true
     },
     
     "AUTO_RECORDING": {
