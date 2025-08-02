@@ -14,15 +14,15 @@ CYBER ANUWH MDX V1 IS MADE BY USING JAVASCRIPT BY CYBER ANUWH ( MR.ANUGA SENITHU
 
 --- 
 
-<a><img src='https://files.catbox.moe/sn20tl.jpg'/></a>
+<a><img src='https://postimg.cc/hhNnXtQ0'/></a>
 
 ---
 
 <p> <b>Connect With me:</b></p>
 <p>
-<a href="https://wa.me/+94706042889"
+<a href="https://wa.me/+94710695082"
 
-> ඔබ whatsapp එකට ලින්ක් කරගත්තට පස්සෙ සීසන් එකේ SHABAN-MD~ මේ කෑල්ල කපා ඉවත් කරන්න නැත්නම් දෝශ ඇති විය හැක... 🫶😙
+> GET SESSION ID AND DEPLOY OUR WEB
 
 
 > Get Pair Code (Session ID)
