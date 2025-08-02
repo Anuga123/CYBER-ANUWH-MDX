@@ -1,12 +1,12 @@
 {
-  "name": "HASHAN-MD",
+  "name": "CYBER-ANUWH-MDX",
   "version": "1.0.0",
-  "description": "A WhatsApp bot created using Node.js",
+  "description": "A WhatsApp bot created using java script",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name HASHAN-MD",
-    "stop": "pm2 stop HASHAN-MD",
-    "restart": "pm2 restart HASHAN-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name ANUWH-MD",
+    "stop": "pm2 stop ANUWH-MD",
+    "restart": "pm2 restart ANUWH-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
